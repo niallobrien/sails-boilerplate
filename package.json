@@ -5,7 +5,6 @@
   "description": "a Sails application",
   "keywords": [],
   "dependencies": {
-    "ejs": "~0.8.4",
     "grunt": "0.4.2",
     "grunt-contrib-clean": "~0.5.0",
     "grunt-contrib-coffee": "~0.10.1",
@@ -22,7 +21,7 @@
     "include-all": "~0.1.3",
     "jade": "^1.11.0",
     "rc": "~0.5.0",
-    "sails": "~0.11.3",
+    "sails": "github:balderdashy/sails#stable",
     "sails-disk": "~0.10.0"
   },
   "scripts": {
