@@ -34,5 +34,8 @@
     "url": "git://github.com/niall/sails-boilerplate.git"
   },
   "author": "niall",
-  "license": ""
+  "license": "",
+  "devDependencies": {
+    "sails-hook-autoreload": "^0.12.0"
+  }
 }
