@@ -2,8 +2,10 @@
 
 A [Sails](http://sailsjs.org) application boilerplate.
 
-*Update*
-Updated this repo to support node v5.0.0 and npm v3. You can use `sails lift` (ignore warnings) or alternatively `npm start`.
+*Updates*
+Updated to include LiveReload support. [Download the extension](http://livereload.com/extensions/) for your browser.
+Updated to support node v5.0.0 and npm v3. You can use `sails lift` (ignore warnings) or alternatively `npm start`.
+
 
 This boilerplate is setup to use Jade for templating, Sass for styles and includes [Vue.js](http://vuejs.org/) out of the box.
 
