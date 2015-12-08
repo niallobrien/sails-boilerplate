@@ -1,0 +1,4 @@
+{% extends 'layout.nunjucks' %}
+	{% block body %}
+		<h1>Testing Nunjucks 12</h1>
+	{% endblock %}

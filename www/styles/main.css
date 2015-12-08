@@ -13,15 +13,5 @@
  * always omit, customize, or replace this behavior with SASS, SCSS,
  * or any other Grunt tasks you like.)
  */
-
-// @import 'styles.scss';
-
-// For example:
-//
-// @import 'foundation.scss';
-//
-// etc.
-
 body {
-	background-color: green;
-}
+  background-color: green; }
